@@ -1,0 +1,24 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: hantax.com
+  role: 프리랜서
+  duration: 2016년 3월 &mdash; 2016년 5월
+  # url: "#"
+  description: |
+    세무회사에 종합소득세 신고를 위한 고객용, 사내용 웹 어플리케이션 제작 및 공급.
+    <ul>
+      <li>서비스 개발을 위한 인프라 구축 (AWS, cafe24)</li>
+      <li>종소세 신고용 클라이언트 웹페이지 설계 및 제작 (반응형)</li>
+      <li>고객으로부터 들어오는 종소세 신고 요청을 관리하기 위한 사내 운영툴 설계 및 제작</li>
+      <li>위 작업 모두 기획, 디자인, 구현, 배포, 유지보수까지 혼자 사측과 협의하며 진행</li>
+      <li>기술 스택: AWS, MySQL, jquery, bootstrap, jade, sass, node.js, express.js</li>
+    </ul>
+
+
+#Springfield Donut Eater's User Group
+#- project: Springfield Donut Eater's User Group
+#  role: Co-Founder & Organizer
+#  duration: 2007 &mdash; Present
+#  url: "#"
+#  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
