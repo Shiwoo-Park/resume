@@ -1,9 +1,14 @@
 # Jobs
 
-# Kakaopage
+- company: 샌드버드(Sendbird)
+  position: Software Engineer
+  duration: 2020년 10월 &mdash; 재직중
+  summary: |
+    백엔드 개발
+
 - company: (주) 카카오페이지
   position: 서비스 개발팀, Software Engineer
-  duration: 2016년 6월 &mdash; 재직중
+  duration: 2016년 6월 &mdash; 2020년 9월
   summary: |
     카카오페이지 서비스 운영툴 개발 및 유지보수, 다양한 부서와의 커뮤니케이션 (마케팅, 기획, 사업부 등)
     <ul>
@@ -23,8 +28,7 @@
       <li>약 100개의 메뉴를 가진 운영툴 유지보수</li>
     <ul>
 
-# Line Plus
-- company: 라인 플러스 
+- company: 라인 플러스
   position: Software Engineer
   duration: 2015년 9월 &mdash; 2016년 1월
   summary: |
@@ -35,7 +39,6 @@
       <li>자기 주도적 업무 문화에 대한 경험 및 방법 습득</li>
     </ul>
 
-# Zum Internet
 - company: 줌 인터넷
   position: 데이터 플랫폼 개발팀, 사원
   duration: 2013년 12월 &mdash; 2015년 8월
