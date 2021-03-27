@@ -1,10 +1,16 @@
 # Jobs
 
-- company: 샌드버드(Sendbird)
+- company: (주) 샌드버드(Sendbird.Inc)
   position: Software Engineer
   duration: 2020년 10월 &mdash; 재직중
   summary: |
-    백엔드 개발
+    Dashboard 백엔드 개발
+    <ul>
+      <li>업무의 약 50% 정도에 영어 사용</li>
+      <li>Dashboard 프론트용 API 개발</li>
+      <li>사내 운영툴(back office) 웹 서비스 유지보수</li>
+      <li>B2B 고객 관리에 관련된 부서들(Account, Solutions engineer, Customer service) 로부터 들어오는 다양한 요청 처리</li>
+    </ul>
 
 - company: (주) 카카오페이지
   position: 서비스 개발팀, Software Engineer
