@@ -1,4 +1,4 @@
-# resume-template
+# Korean resume
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
