@@ -1,8 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: "강의: 핵심만 콕콕 골라먹는 자바스크립트"
+  role: 강사 (제로베이스)
+  duration: 2022년 5월 &mdash; 2022년 7월
+  url: "https://docs.google.com/spreadsheets/d/1dG8Nldz9NLswrQ8RCsJt-jvX2EomNDGvCYQq6FDX2yo/edit?usp=sharing"
+  description: |
+    자바스크립트 개발자가 되기위한 기초적인 배경지식부터 시작해 주요 개념까지 요약한 강의를 맡았음. (약 5시간 분량)
+    <ul>
+      <li>기본 배경 지식 (컴퓨터, 웹, js)</li>
+      <li>자바스크립트 기초 (컴퓨터 구조, 변수, 타입, 기본 자료구조 & 문법 등)</li>
+      <li>자바스크립트 핵심 (event, scope, js엔진, async, 객체, 클로져, 클래스)</li>
+    </ul>
+
 - project: hantax.com
-  role: 프리랜서
+  role: 프리랜서 개발자 (나이스 세무회계)
   duration: 2016년 3월 &mdash; 2016년 5월
   # url: "#"
   description: |
