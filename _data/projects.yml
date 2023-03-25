@@ -1,16 +1,18 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: "강의: 핵심만 콕콕 골라먹는 자바스크립트"
-  role: 강사 (제로베이스)
+- project: "Zerobase 프론트엔드 스쿨 - Javascript 강의 촬영"
+  role: 프론트엔드 스쿨 강사 (javascript)
   duration: 2022년 5월 &mdash; 2022년 7월
   url: "https://www.youtube.com/watch?v=VayJmgJ08bk"
   description: |
-    자바스크립트 개발자가 되기위한 기초적인 배경지식부터 시작해 주요 개념까지 요약한 강의를 맡았음. (약 5시간 분량)
+    자바스크립트 개발자가 되기위한 기초부터 주요 개념까지 요약한 강의를 맡았음. (강의명: 핵심만 콕콕 골라먹는 자바스크립트)
     <ul>
-      <li>기본 배경 지식 (컴퓨터, 웹, js)</li>
-      <li>자바스크립트 기초 (컴퓨터 구조, 변수, 타입, 기본 자료구조 & 문법 등)</li>
-      <li>자바스크립트 핵심 (event, scope, js엔진, async, 객체, 클로져, 클래스)</li>
+      <li>수강시간: 총 약 5시간</li>
+      <li>제작기간은 약 2.5개월 소요 (2022.5~7월)</li>
+      <li>직접 커리큘럼, 강의자료(ppt & code) 및 촬영을 진행하였음.</li>
+      <li>2023년 제로베이스 프론트엔드 스쿨 커리큘럼에 포함됨</li>
+      <li>버드뷰에 근무하는 동안 회사 허가를 받고 업무 외 시간에 개인시간을 들여 강의 제작</li>
       <li>참고자료: <a href="https://docs.google.com/spreadsheets/d/1dG8Nldz9NLswrQ8RCsJt-jvX2EomNDGvCYQq6FDX2yo/edit?usp=sharing" target="_blank">강의 커리큘럼 시트</a>
     </ul>
 
