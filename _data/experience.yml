@@ -13,6 +13,7 @@
       <li>유저 정보 처리 프로세스 체계화 및 개발 (가입 -> 휴면 -> 탈퇴 -> 파기)</li>
       <li>지속적인 레거시 프로젝트(JSP)의 로직 포팅과 함께 문서화(API Spec by Open API)와 유닛테스트 제작</li>
       <li>앱 내 신규 서비스(이너뷰티) 기술 설계 및 구현</li>
+      <li>기술스택: Django, DRF, JSP, MySQL</li>
     </ul>
 
 - company: (주) 샌드버드(Sendbird.Inc)
@@ -25,13 +26,14 @@
       <li>Dashboard 서비스 API 개발 (Django)</li>
       <li>서비스 운영툴(back office) 유지보수 (React.js)</li>
       <li>B2B 고객 관리에 관련된 부서들(Accounting, Solutions engineer, Customer service) 로부터 들어오는 다양한 요청 처리</li>
+      <li>기술스택: Django, DRF, MySQL, React.js</li>
     </ul>
 
 - company: (주) 카카오페이지
   position: 서비스 개발팀, Software Engineer
   duration: 2016년 6월 &mdash; 2020년 9월
   summary: |
-    카카오페이지 서비스 운영툴 개발 및 유지보수, 다양한 부서와의 커뮤니케이션 (마케팅, 기획, 사업부 등)
+    카카오페이지 서비스 운영툴 개발 및 유지보수, 다양한 부서(마케팅, 기획, 사업부 등)와의 커뮤니케이션
     <ul>
       <li>광고 Supply-side Platform을 개발하여 매출에 기여</li>
       <li>마케팅, 광고 등에 쓰이는 다목적 이벤트 페이지 기능 개선</li>
@@ -47,6 +49,7 @@
       <li>서비스 로그를 ES 로 쌓아 유저 모니터링을 강화해본 경험</li>
       <li>프로젝트에 단위 테스트 도입 경험 (pytest)</li>
       <li>약 100개의 메뉴를 가진 운영툴 유지보수</li>
+      <li>기술스택: Django, DRF, Celery, Spring Boot, MySQL, JQuery, Vue.js, ES, Redis</li>
     <ul>
 
 - company: 라인 플러스
@@ -58,6 +61,7 @@
       <li>PC, 모바일 결제를 PG사와 연동하기 위한 자체 모듈 제작</li>
       <li>워드프레스 기반으로 된 백엔드 시스템과 호환되는 API 를 구현하여 프론트에 제공하는 작업 (Node)</li>
       <li>자기 주도적 업무 문화에 대한 경험 및 방법 습득</li>
+      <li>기술스택: Node.js, MySQL</li>
     </ul>
 
 - company: 줌 인터넷
@@ -69,6 +73,7 @@
       <li>약 400 개에 달하는 다양한 웹사이트 파서 개발 및 유지보수</li>
       <li>신규 파서 제작, 관리, 모니터링을 제공하는 서비스 개발하여 신규 사이트 파서 제작 시간 1/5 단축</li>
       <li>대량의 블로그 데이터를 기반으로 고품질 블로그 100개를 추출하는 작업 경험</li>
+      <li>기술스택: Python, Java, Hadoop</li>
     </ul>
 
 # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
