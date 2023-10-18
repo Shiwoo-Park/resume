@@ -1,5 +1,5 @@
 # Site settings
-title:       "박시우 이력서"
+title: "박시우 이력서"
 description: "박시우 이력서"
 
 # Build settings
@@ -9,48 +9,49 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:              "true"
-resume_name:                "박 시 우"
-resume_title:               "Software Engineer"
-resume_contact_email:       "woozin23@gmail.com"
-resume_contact_telephone:   "(+82)10-6599-1699"
-resume_contact_address:     "경기도 용인시 수지구 광교마을로 62 (16943)"
+resume_avatar: "true"
+resume_name: "박 시 우"
+resume_title: "Software Engineer"
+resume_contact_email: "woozin23@gmail.com"
+resume_contact_telephone: "(+82)10-6599-1699"
+resume_contact_address: "경기도 용인시 수지구 광교마을로 62 (16943)"
 resume_header_contact_info: "경기도 용인시 수지구 광교마을로 62 | 16943 | woozin23@gmail.com"
-resume_header_intro: "<p>파이썬을 사랑하고 책임감, 신뢰, 융통성, 긍정적 에너지를 중요하게 생각하는 개발자</p>"
+resume_header_intro: "<p>정리 능력이 뛰어나고 솔직한 커뮤니케이션 스킬이 돋보이는 9년차 백엔드 개발자. 여러 회사에서의 업무 경력 및 프리랜서, 온라인 강사 등의 다양한 경험을 통해 상황파악이 빠르고 적응력이 좋은편. 전체 경력에서 거대 레거시를 담당하며 신규 기능을 개발한 기간이 상당히 길어서 복잡한 커뮤니케이션 & 유지보수에 매우 익숙하고 기술부채 해소에 관심이 많음. 풀스택이 가능은 하지만 백엔드 개발을 선호.</p>"
+#resume_header_intro: "<p>파이썬을 사랑하고 책임감, 신뢰, 융통성, 긍정적 에너지를 중요하게 생각하는 개발자</p>"
+#resume_header_intro: "<p>책임감있고 열정이 넘치는 사람, 그 어떤 피드백도 기꺼이 수용할 수 있는 사람, 솔직하면서도 배려가 있는사람, 소통을 중요시 하는 사람, 내가 무엇을 왜 하는지가 중요한 사람</p>"
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work: "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
+resume_section_experience: true
+resume_section_education: true
+resume_section_projects: true
+resume_section_skills: true
 #resume_section_recognition:     true
-resume_section_links:           true
+resume_section_links: true
 #resume_section_associations:    true
-resume_section_interests:       true
+resume_section_interests: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/Shiwoo-Park"
-  resume_facebook_url:          "https://www.facebook.com/woozin23"
-  resume_linkedin_url:          "https://www.linkedin.com/in/shiwoopark"
-  resume_instagram_url:         "https://www.instagram.com/silva23/"
+  resume_github_url: "https://github.com/Shiwoo-Park"
+  resume_facebook_url: "https://www.facebook.com/woozin23"
+  resume_linkedin_url: "https://www.linkedin.com/in/shiwoopark"
+  resume_instagram_url: "https://www.instagram.com/silva23/"
   #resume_website_url:           "http://oniondev.egloos.com"
-  resume_twitter_url:           "https://twitter.com/jcoffeemilk"
+  resume_twitter_url: "https://twitter.com/jcoffeemilk"
   #resume_dribbble_url:          "https://dribbble.com/jag"
-resume_print_social_links:      true
+resume_print_social_links: true
 
 # Design settings
-resume_theme:                   default
-
+resume_theme: default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
