@@ -43,8 +43,17 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary" itemprop="description">
-          <p class="resume-item-copy">{{ site.resume_header_intro }}</p>
+        <section class="content-section print-only">
+          <header class="section-header">
+            <h2>{{ site.resume_title }}</h2>
+          </header>
+          <div class="resume-item">
+            <p class="resume-item-copy">{{ site.resume_header_intro }}</p>
+          </div>
+        </section>
+
+        <div class="executive-summary no-print" itemprop="description">
+          {{ site.resume_header_intro }}
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
