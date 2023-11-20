@@ -3,77 +3,96 @@
   position: Backend Developer (제품리뷰 도메인, Tech Lead)
   duration: 2021년 8월 &mdash;  2023년 10월
   summary: |
-    화해 서비스의 여러 도메인(주로 제품, 리뷰 등)에서 개선과제 수행과 동시에 신규 유저&운영 백엔드 API 개발
+    책임
     <ul>
-      <li>스쿼드 형태의 팀에서 TechLead 로서 기술 과제들의 관리 및 개발 지원, 문제 해결을 위한 커뮤니케이션 리딩</li>
-      <li>면접관 활동: 신입, 경력 개발자 채용. 기술 & 일반 면접</li>
-      <li>신규 JIRA workflow 설계 및 적용을 통해 팀내 코드 리뷰 문화 향상에 기여</li>
-      <li>"화해 어워드" 서비스의 백엔드 구조 개선 및 신규 형태의 어워드(트렌드 어워드) 도입, UI개선 과제의 백엔드 개발 담당</li>
-      <li>카카오 로그인(+ 비즈니스 채널) 도입으로 신규 카카오톡 채널 가입자 수 증대에 기여</li>
-      <li>유저 정보 처리 프로세스 체계화 및 개발 (가입 -> 휴면 -> 탈퇴 -> 파기)</li>
-      <li>지속적인 레거시 프로젝트(JSP)의 로직 포팅과 함께 문서화(API Spec by Open API)와 유닛테스트 제작</li>
-      <li>앱 내 신규 서비스(이너뷰티) 기술 설계 및 구현</li>
-      <li>기술스택: Django, DRF, JSP, MySQL</li>
+      <li>화해 앱 제품, 리뷰 도메인 서비스 백엔드 개발 및 유지보수</li>
+      <li>스쿼드팀 TechLead 역할 - 과제 기술 검토, 설계, 구현, 배포 전 과정에 참여</li>
+      <li>2명의 팀원이 있는 소규모 백엔드 그룹 리딩</li>
+      <li>면접관 활동: 신입, 경력 개발자 채용</li>
     </ul>
+
+    성과
+    <ul>
+      <li>신규 JIRA workflow 설계 및 적용을 통해 팀내 코드 리뷰 문화 향상에 기여</li>
+      <li>"화해 어워드" 백엔드 구조 개선 (테이블 통합, 서비스 노출제어 기능 추가)</li>
+      <li>"카카오 로그인" 도입 - 카톡 채널 신규 구독자 수 증대에 기여</li>
+      <li>"유저 정보 처리 프로세스 정리" - 휴면/탈퇴 시, 유저 개인 정보처리 사이클 확립</li>
+      <li>"이너뷰티 서비스 런칭" - 크롤데이터 입력, 유저&어드민 API개발, 커머스&광고 서비스 호환</li>
+      <li>"JSP 레거시 포팅 및 유지보수" - 오래된 코드 분석하여 신규 API 로 견고하게(문서화+테스트) 기능 이전</li>
+    </ul>
+
+    기술스택: Python, Java, Django, DRF, JSP, MySQL
 
 - company: (주) 샌드버드(Sendbird.Inc)
   position: Software Engineer
   duration: 2020년 10월 &mdash; 2021년 7월
   summary: |
     Dashboard 백엔드 개발
+
     <ul>
       <li>업무의 약 50% 정도에 영어 사용</li>
       <li>Dashboard 서비스 API 개발 (Django)</li>
       <li>서비스 운영툴(back office) 유지보수 (React.js)</li>
       <li>B2B 고객 관리에 관련된 부서들(Accounting, Solutions engineer, Customer service) 로부터 들어오는 다양한 요청 처리</li>
-      <li>기술스택: Django, DRF, MySQL, React.js</li>
     </ul>
+
+    기술스택: Python, Javascript, Django, DRF, React.js, MySQL
 
 - company: (주) 카카오 엔터테인먼트
   position: 페이지 서비스 개발팀, Software Engineer
   duration: 2016년 6월 &mdash; 2020년 9월
   summary: |
-    카카오페이지 서비스 운영툴 개발 및 유지보수, 다양한 부서(마케팅, 기획, 사업부 등)와의 커뮤니케이션
+    책임
     <ul>
-      <li>광고 Supply-side Platform을 개발하여 매출에 기여</li>
-      <li>마케팅, 광고 등에 쓰이는 다목적 이벤트 페이지 기능 개선</li>
-      <li>예약 플랫폼을 제작하여 서비스 운영 편의성 향상 기여</li>
-      <li>마케팅 목적의 다양한 유저 퀘스트 수행 및 리워드 지급을 위한 서비스 백엔드 설계 및 제작</li>
-      <li>유저향 서비스 관련 다목적용 타겟 관리 시스템 개발</li>
-      <li>빌링 플랫폼과 밀접하게 연관되는 고객 관리 운영툴 개발 (유저 구매 내역, 이용 정보 조회 및 환불)</li>
-      <li>카카오페이지 VOD 서비스 운영툴 개발 참여</li>
-      <li>Spring(JSP)+Django+JQuery 로 이루어져있던 레거시 시스템을 유지보수함과 동시에 Vue+DRF 를 활용하도록 전환해본 경험</li>
+      <li>"메뉴가 100개가 넘어가는 카카오페이지 서비스 운영툴"의 풀스택 개발 및 유지보수</li>
+      <li>앱 푸시 대상자 관리 및 발송 시스템 개발 및 유지보수</li>
+      <li>팀 멤버가 계속 바뀌었지만 혼자 4년 반 동안 꾸준히 자리를 지키며 떠난이의 빈자리를 채우고, 새로온 분에게 온보딩을 제공하며 한 제품에 열정과 애착을 가지고 일을 했음</li>
+      <li>다양한 부서(마케팅, 기획, 사업부 등)와의 커뮤니케이션</li>
+      <li>레거시 프로젝트 포팅(4년반 동안 약 10% -> 90% 달성)</li>
+    </ul>
+
+    성과
+    <ul>
+      <li>광고 Supply-side Platform 설계 및 개발 - 리워드 광고, 오퍼월, 리포트 생성 등</li>
+      <li>운영 작업 예약 기능 개발 - 운영자들의 업무 편의성 향상에 기여</li>
+      <li>퀘스트 플랫폼 개발 - 앱 내 유저 다양한 액션 수행 유도 및 리워드 지급</li>
+      <li>타겟 유저 관리 시스템 개발 - 다양한 서비스의 유저 타겟팅에 활용</li>
+      <li>유저 빌링 정보 관리기능 어드민 개발 - 결제 정보 조회 및 환불 처리 등</li>
       <li>Python-Django 프로젝트의 버전업 진행 경험 (언어 & 프레임워크)</li>
-      <li>수백만의 유저에게 푸시를 발송 하는 시스템의 개발 및 유지보수 경험 (Celery, Redis)</li>
-      <li>최초 서비스 서버 환경 설정 및 배포 자동화 경험 (Ansible, Jenkins)</li>
-      <li>서비스 로그를 ES 로 쌓아 유저 모니터링을 강화해본 경험</li>
-      <li>프로젝트에 단위 테스트 도입 경험 (pytest)</li>
-      <li>약 100개의 메뉴를 가진 운영툴 유지보수</li>
-      <li>기술스택: Django, DRF, Celery, Spring Boot, MySQL, JQuery, Vue.js, ES, Redis</li>
-    <ul>
+      <li>푸시발송 시스템 개발 - 수백만건 동시발송, 속도제어 기능 (Celery, Redis)</li>
+      <li>ES를 활용한 모니터링 강화 - Request Data, 유저 댓글</li>
+      <li>배포 자동화 (Ansible, Jenkins)</li>
+      <li>유닛 테스트 도입 (pytest)</li>
+    </ul>
+
+    기술스택: Django, DRF, Celery, Spring Boot, MySQL, ES, Redis, JQuery, Vue.js
 
 - company: 라인 플러스
   position: Software Engineer
   duration: 2015년 9월 &mdash; 2016년 1월
   summary: |
     라인프렌즈 온라인 스토어 백엔드 개발
+
     <ul>
       <li>PC, 모바일 결제를 PG사와 연동하기 위한 자체 모듈 제작</li>
       <li>워드프레스 기반으로 된 백엔드 시스템과 호환되는 API 를 구현하여 프론트에 제공하는 작업 (Node)</li>
-      <li>기술스택: Node.js, MySQL, Word Press</li>
     </ul>
+
+    기술스택: Node.js, MySQL, Word Press
 
 - company: 줌 인터넷
   position: 데이터 플랫폼 개발팀, 사원
   duration: 2013년 12월 &mdash; 2015년 8월
   summary: |
     검색엔진(zum.com)에 사용될 다양한 웹 데이터 크롤러, 파서 개발 및 유지보수.
+
     <ul class="resume-item-list">
       <li>약 400 개에 달하는 다양한 웹사이트 파서 개발 및 유지보수</li>
       <li>신규 파서 제작, 관리, 모니터링을 제공하는 서비스 개발하여 신규 사이트 파서 제작 시간 1/5 단축</li>
       <li>대량의 블로그 데이터를 기반으로 고품질 블로그 100개를 추출하는 작업 경험</li>
-      <li>기술스택: Python, Java, Hadoop</li>
     </ul>
+
+    기술스택: Python, Java, Hadoop
 
 # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
 # <ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
