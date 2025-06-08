@@ -3,21 +3,24 @@
   position: Backend Developer (서비스 파트)
   duration: 2024년 3월 &mdash;
   summary: |
-    책임:
+    책임 및 역할:
     <ul>
-      <li>바로팜 웹/CMS용 백엔드 API 및 신규 사업 백엔드 아키텍처 설계/개발</li>
-      <li>사내 운영 효율화를 위한 어드민 도구(CMS) 프론트엔드 개발</li>
-      <li>DevOps 업무 및 개발팀 Git 저장소, JIRA 관리</li>
+      <li>메인 API 프로젝트 전반의 구조 설계 및 품질 기반 리팩토링 주도 (exception handler, logging system, 파일 관리 구조 등)</li>
+      <li>실시간 & 대용량 비동기 처리를 위한 Celery 워커 이중화 (service, download) 및 ECS 기반 배포 인프라 구축</li>
+      <li>CMS 공통 UI 컴포넌트 전체 생성. 그 중 특히 DB 테이블 별 데이터 연동을 위한 APISelect, MultiSelect 컴포넌트 모듈 백엔드/프론트엔드 공통 구조 설계</li>
+      <li>신사업 프로젝트의 백엔드 파트 리딩 (본인 포함 3인): 제품 리뷰 및 리스크 검토, 기술 아키텍처 결정, 역할 분배, 일정 조율</li>
     </ul>
 
     주요 성과:
     <ul>
-      <li>서비스 안정성 및 유지보수성 향상 - 에러 모니터링 강화, 코드 리팩토링, 유닛테스트 및 API spec 관리 환경 구축</li>
-      <li>개발 문화 혁신 - 팀 코딩 컨벤션 수립, 체계적 문서화 환경 구축, 회의록 미리 작성 문화 도입</li>
-      <li>업무 프로세스 최적화 - JIRA + Confluence 기반 프로젝트 관리 + 테크스펙 작성 문화 도입</li>
+      <li>API 프로젝트 개발환경 배포 속도 2배 개선 (매번 패키지 전체 설치 -> pyenv 기반 가상환경 재활용)</li>
+      <li>매우 복잡한 서버 데몬 동작 구조를 가진 크롤 시스템의 배포 자동화 (기존에는 수동으로 30분씩 걸림 -> 클릭 1번에 약 30개 서버 배포)</li>
+      <li>유닛 테스트 도입 / API 스펙 페이지 개편 / 에러 모니터링 체계 도입 → 운영 안정성 향상</li>
+      <li>개발자 업무 효율 향상을 위한 백엔드 유틸리티 repo 생성 및 운영(VPN, local storage 도커, git util 등)</li>
+      <li>사내 ChatGPT 도입 주도 → 업무용 자료들 문서화 및 프롬프트용 프로젝트 파일 공유로 팀 생산성 개선 기여</li>
     </ul>
 
-    기술스택: Python, Django, DRF, Next.js, React.js, PostgreSQL, AWS, jenkins
+    기술스택: Python, Django, DRF, Next.js, React.js, PostgreSQL, AWS, jenkins, ChatGPT
 
 - company: (주) 버드뷰
   position: Backend Developer (제품리뷰 도메인, Tech Lead)
