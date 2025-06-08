@@ -13,14 +13,13 @@
 
     주요 성과:
     <ul>
-      <li>API 프로젝트 개발환경 배포 속도 2배 개선 (매번 패키지 전체 설치 -> pyenv 기반 가상환경 재활용)</li>
-      <li>매우 복잡한 서버 데몬 동작 구조를 가진 크롤 시스템의 배포 자동화 (기존에는 수동으로 30분씩 걸림 -> 클릭 1번에 약 30개 서버 배포)</li>
-      <li>유닛 테스트 도입 / API 스펙 페이지 개편 / 에러 모니터링 체계 도입 → 운영 안정성 향상</li>
-      <li>개발자 업무 효율 향상을 위한 백엔드 유틸리티 repo 생성 및 운영(VPN, local storage 도커, git util 등)</li>
-      <li>사내 ChatGPT 도입 주도 → 업무용 자료들 문서화 및 프롬프트용 프로젝트 파일 공유로 팀 생산성 개선 기여</li>
+      <li>복잡한 스펙의 서비스 배포 자동화 / 기존 배포 루틴 비효율 제거 → 개발팀 업무 편의 증진 및 생산성 향상</li>
+      <li>주요 기술스택 버전업 / 유닛 테스트 도입 / API 스펙 페이지 개편 / 에러 모니터링 체계 도입 → 운영 안정성 향상</li>
+      <li>백엔드 유틸리티 repo 생성 및 운영(local storage 도커, git util 등) → 로컬 개발환경 세팅 편리성 기여</li>
+      <li>사내 개발팀 ChatGPT 도입 주도 / 업무용 자료들 문서화 / 프롬프트용 프로젝트 파일 공유 → 개발팀 전체 생산성 극대화에 기여</li>
     </ul>
 
-    기술스택: Python, Django, DRF, Next.js, React.js, PostgreSQL, AWS, jenkins, ChatGPT
+    기술스택: Python, Django, DRF, FastAPI, Next.js, React.js, PostgreSQL, AWS, Terraform, jenkins, ChatGPT
 
 - company: (주) 버드뷰
   position: Backend Developer (제품리뷰 도메인, Tech Lead)
