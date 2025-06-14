@@ -7,6 +7,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+  # style: expanded
 
 # Resume settings
 resume_avatar: "true"
@@ -16,7 +17,7 @@ resume_contact_email: "woozin23@gmail.com"
 resume_contact_telephone: ""
 resume_contact_address: ""
 resume_header_contact_info: "woozin23@gmail.com"
-resume_header_intro: "안녕하세요, 저는 기술은 사용자 가치를 실현하는 도구라 믿고, 제품 중심 개발과 기술부채 해소에 진심인 백엔드 기반 풀스택 소프트웨어 엔지니어입니다. 다양한 환경에서의 풍부한 경험을 바탕으로 실질적인 임팩트를 만들어냅니다."
+resume_header_intro: "<p>기술은 사용자 가치를 실현하는 도구라 믿습니다. 제품 중심 개발과 기술부채 해소에 진심이며, 실질적인 비즈니스 임팩트를 만드는 것을 중요하게 생각합니다. 백엔드 기반의 풀스택 개발자이자, 소규모 팀 리딩과 DevOps, 인프라 개선까지 주도적으로 경험해왔습니다.</p><p><strong>주요 역량</strong></p><ul><li>Python & Django 기반 백엔드 개발 (10년)</li><li>기술부채 해소 및 레거시 개선 주도 경험</li><li>DevOps 환경 구성 (배포 자동화, 로깅, 모니터링)</li><li>PO/디자이너와의 실용적 협업</li><li>유저 중심 기능 설계 및 구현</li></ul>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
