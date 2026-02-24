@@ -18,6 +18,7 @@
       <li>유저 활동 기반 실시간 보상 지급 시스템(a.k.a 미션플랫폼)을 직접 디자인하고 개발하여 마케팅팀의 니즈를 언제나 빠르게 제공</li>
       <li>프론트 공용 컴포넌트 개발로 백오피스 개발 시간 대폭 단축 (AI 도입까지 더하여 생산성 약 3배 향상)</li>
       <li>2개 신사업 설계부터 런칭까지 전과정 참여: 도매간 거래 플랫폼 (BE 50%), 약사->전문가 상담 플랫폼 (BE 100% 담당)</li>
+      <li>ChatGPT, Cursor 등 AI 도구 활용하여 개인 및 팀 생산성을 극대화</li>
     </ul>
 
     기술스택: Python, Django, DRF, FastAPI, Next.js, React.js, PostgreSQL, AWS, Terraform, jenkins, ChatGPT, Cursor
